@@ -1,6 +1,8 @@
 # SMart-Boards
 SmartHome Firmware for NodeMCU and ESP8266 devices
 
+### Purchase a Serial Number from http://icanfixit.fetchapp.com/sell/3d96196d
+
 
 **MQTT Payloads:**
 
