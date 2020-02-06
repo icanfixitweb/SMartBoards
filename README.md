@@ -7,6 +7,8 @@ SMartBoards is a Firmware to transofrm your NodeMCU and ESP8266 into a Smart Hom
 
 **MQTT Payloads:**
 
+- MqttLog
+
 - Power topic payloads:
   - on
   - off
