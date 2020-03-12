@@ -9,8 +9,8 @@ Check the [I can fix it!](https://www.youtube.com/icanfixit) YouTube channel to 
 **SMartBoards** can be downloaded from the links below:
 
   * SMartBoards for WS821x LED Strips  [[`Download`](http://bit.ly/39kuswX)]
-  * SMartBoards for RGB LED Strips  [[`Download`](http://bit.ly/2SyeSqH)]
   * SMartBoards for Relays  [[`Download`](http://bit.ly/2HatIOL)]
+  * ~~SMartBoards for RGB LED Strips  [[`Download`](http://bit.ly/2SyeSqH)]~~  <-- COMING SOON!
 
 ***
 
