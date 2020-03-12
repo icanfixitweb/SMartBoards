@@ -2,7 +2,7 @@
 
 **SMartBoards** is a custom firmware to transform your NodeMCU and ESP8266 into a Smart Home device
 
-Check the [SMartBoards Wiki](https://github.com/jxa13/SMartBoards/wiki) for setup and usage instructions
+Check the [SMartBoards Wiki](https://github.com/jxa13/SMartBoards/wiki) for installation and usage instructions
 
 Check the [I can fix it!](https://www.youtube.com/icanfixit) YouTube channel to see the **SMartBoards** in action
 
